@@ -1,0 +1,23 @@
+com/pl/edu/prz/aplikacjadietetyczna/BuildConfig.java
+ com.pl.edu.prz.aplikacjadietetyczna.BuildConfig
+com/pl/edu/prz/aplikacjadietetyczna/ListAdapter.java
+ com.pl.edu.prz.aplikacjadietetyczna.ListAdapter
+ com.pl.edu.prz.aplikacjadietetyczna.ListAdapter$ListViewHolder
+com/pl/edu/prz/aplikacjadietetyczna/MainActivity3.java
+ com.pl.edu.prz.aplikacjadietetyczna.MainActivity3
+com/pl/edu/prz/aplikacjadietetyczna/Diets.java
+ com.pl.edu.prz.aplikacjadietetyczna.Diets
+com/pl/edu/prz/aplikacjadietetyczna/MainActivity1.java
+ com.pl.edu.prz.aplikacjadietetyczna.MainActivity1
+ com.pl.edu.prz.aplikacjadietetyczna.MainActivity1$1
+com/pl/edu/prz/aplikacjadietetyczna/MainActivity2.java
+ com.pl.edu.prz.aplikacjadietetyczna.MainActivity2
+ com.pl.edu.prz.aplikacjadietetyczna.MainActivity2$1
+com/pl/edu/prz/aplikacjadietetyczna/ListFragment.java
+ com.pl.edu.prz.aplikacjadietetyczna.ListFragment
+ com.pl.edu.prz.aplikacjadietetyczna.ListFragment$OnSelectedInterface
+com/pl/edu/prz/aplikacjadietetyczna/ViewPagerFragment.java
+ com.pl.edu.prz.aplikacjadietetyczna.ViewPagerFragment
+ com.pl.edu.prz.aplikacjadietetyczna.ViewPagerFragment$1
+com/pl/edu/prz/aplikacjadietetyczna/Skladniki.java
+ com.pl.edu.prz.aplikacjadietetyczna.Skladniki
